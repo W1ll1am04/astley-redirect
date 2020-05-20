@@ -143,9 +143,7 @@ if (run) {
 		}
 		return result; // return
 	}
-	
-	var iaupdate;
-	
+		
 	// change this function if you want to load check_astley() thru something else than window.onload
 	window.onload = function() {check_astley()}
 	
