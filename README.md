@@ -11,7 +11,7 @@ Exactly what the repository name says. Astley-redirect, if the date is 24 of Oct
 ## Using
 Just add the script to your site with:
 
-Download and then add it:
+Clone and then add it:
 
 ``<script src="astley-full.js"></script>``
 
