@@ -9,7 +9,7 @@ Exactly what the repository name says. Astley-redirect, if the date is 24 of Oct
 * Core only contains bare minimum of code for the script to run.
 
 ## Using
-Just add the script to your site with:
+There's multiple ways to add it:
 
 Clone and then add it:
 
