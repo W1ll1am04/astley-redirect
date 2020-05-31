@@ -175,6 +175,7 @@ if (run) {
 	}
 	
 	// define debug function
+	// this feature isnt finish and is probably buggy.
 	if (enable_console_debugger) {
 		function debug(deb) {
 			try {
