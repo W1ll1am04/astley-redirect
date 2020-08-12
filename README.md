@@ -4,7 +4,7 @@ Redirect if the system date is the same as upload date on 'Never Gonna Give You 
 ### What does it do?
 Exactly what the repository name says. Astley-redirect, if the date is 24 of October, then redirect.
 
-## Difference between full and core.
+### Difference between full and core.
 * Full includes everything. Lots of features, options & extras.
 * Core only contains bare minimum of code for the script to run.
 
